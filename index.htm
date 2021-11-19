@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grocery Table</title>
+
+    <link rel="stylesheet" href="./bootstrap.min.css">
+    <link rel="stylesheet" href="./style.css">
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
+    <script  defer src="./bootstrap.min.js"></script>
+    
+   
+    <script defer src="./ajax.js"></script>
+
+</head>
+<body class="h">
+  <nav class="nav nav-pills flex-column flex-sm-row">
+    <a class="flex-sm-fill text-sm-center nav-link active" aria-current="page" href="#"><h3>GROCERY LIST</h3></a>
+    
+  </nav>
+  <div>
+    <button id="btn" >View List</button>
+    
+  </div>
+    
+    <table class="table table-bordered table-dark" >
+        <thead>
+          <tr>
+            <th scope="col">SL No.</th>
+            <th scope="col">NAME</th>
+            <th scope="col">QUANTITY</th>
+            <th scope="col">UNIT</th>
+            <th scope="col">DEPARTMENT</th>
+            <th scope="col">NOTES</th>
+            
+          </tr>
+        </thead>
+        <tbody id="grocery" >
+           
+          
+        </tbody>
+      </table>
+     
+      
+      
+</body>
+</html>

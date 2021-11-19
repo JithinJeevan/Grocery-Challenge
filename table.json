@@ -1,0 +1,80 @@
+{
+    "content" : [
+    {
+        "sl":1,
+        "name"  : "Apple",
+        "quant" : "2",
+        "unit"  : "kg",
+        "dep"   : "Fruits",
+        "notes" :"Green Apple"
+
+    },
+    {
+        "sl":2,
+        "name"  : "Carrot",
+        "quant" : "1.5",
+        "unit"  : "kg",
+        "dep"   : "Veg.",
+        "notes" :"Fresh only"
+    },
+    {
+        "sl":3,
+        "name"  : "Sugar",
+        "quant" : 3,
+        "unit"  : "kg",
+        "dep"   : "Sugar",
+        "notes" :"Small Grains"
+    },
+    {
+        "sl":4,
+        "name"  : "Rice",
+        "quant" : 6,
+        "unit"  : "kg",
+        "dep"   : "Rice",
+        "notes" :"Matta"},
+    {
+        "sl":5,
+        "name"  : "Cabbage",
+        "quant" : 2,
+        "unit"  : "No.s",
+        "dep"   : "Veg.",
+        "notes" :"Fresh only"},
+
+    {
+        "sl":6,
+        "name"  : "Coconut Oil",
+        "quant" : 3,
+        "unit"  : "kg",
+        "dep"   : "oil",
+        "notes" :"Fresh only"},
+    {
+        "sl":7,
+        "name"  : "Sambar powder",
+        "quant" : 2,
+        "unit"  : "No.s",
+        "dep"   : "Spices",
+        "notes" :"Aachi/Sakthi"},
+
+    {
+        "sl":8,
+        "name"  : "Salt",
+        "quant" : 1,
+        "unit"  : "No.",
+        "dep"   : "Salt",
+        "notes" :"Iodised"},
+    {
+        "sl":9,
+        "name"  : "Milk",
+        "quant" : 2,
+        "unit"  : "No.s",
+        "dep"   : "Dairy",
+        "notes" :"Milma"},
+    {
+        "sl":10,
+        "name"  : "Chicken",
+        "quant" : 2,
+        "unit"  : "Kg",
+        "dep"   : "Meat",
+        "notes" :"Broiler"}
+]
+}
